@@ -1,4 +1,3 @@
-from operator import truediv
 from ContaCorrente import ContaCorrente
 from ContaPoupanca import ContaPoupanca
 
